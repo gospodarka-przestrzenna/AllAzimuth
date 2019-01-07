@@ -1,0 +1,16 @@
+[general]
+name=All Azimuth
+description=Stores azimuth of each feature in layer field.
+about= Takes begining and end of each line and stores it to specified field.
+version=1.0
+qgisMinimumVersion=3.4
+icon=images/icon.png
+author=Maciej Kamiński Politechnika Wrocławska
+email=kaminski.maciej@gmail.com
+tags=vector, analysis
+homepage=https://github.com/mk45/AllAzimuth.git
+tracker=https://github.com/mk45/AllAzimuth/issues
+repository=https://github.com/mk45/AllAzimuth.git
+experimental=False
+deprecated=False
+changelog=Version 1.0
