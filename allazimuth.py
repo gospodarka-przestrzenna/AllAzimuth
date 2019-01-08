@@ -34,7 +34,7 @@ class AllAzimuth(QAction):
         self.plugin=plugin
         super(AllAzimuth,self).__init__(
 			plugin.qicon,
-			"Connect",
+			"Compute Azimuth",
 			plugin.iface.mainWindow()
 			)
         self.triggered.connect(self.run)
