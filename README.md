@@ -1,5 +1,5 @@
 # AllAzimuth
-This Qgis plugin calculates azimuths for lines in the layer and writes them in new attribute column. 
+This Qgis plugin calculates azimuths for lines in the layer and writes them in new attribute column. Azimuths are calculated in degrees according to y axis direction (North).
 
 Requires Qgis >= 3.4
 
