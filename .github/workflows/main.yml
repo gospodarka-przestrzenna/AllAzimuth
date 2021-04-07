@@ -1,4 +1,4 @@
-name: Publisz plugin
+name: Publish plugin
 
 on:
   release:
