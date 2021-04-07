@@ -1,9 +1,6 @@
 name: Publisz plugin
 
 on:
-  push:
-    tags:
-      - '*'
   release:
     types: 
       - published
