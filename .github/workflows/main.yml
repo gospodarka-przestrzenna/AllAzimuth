@@ -2,11 +2,8 @@ name: Publisz plugin
 
 on:
   release:
-    types: 
-      - published
-      - released
+    types:
       - created
-      - edited
   workflow_dispatch:
 jobs:
   zip-files:
