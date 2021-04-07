@@ -9,6 +9,7 @@ on:
       - published
       - released
       - created
+      - edited
   workflow_dispatch:
 jobs:
   zip-files:
